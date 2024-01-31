@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 12%;
+  background-color: rgb(19, 19, 19);
+  box-shadow: 0 0 10px rgb(0, 0, 0, 0.3);
+  .logo {
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 0.15rem;
+    align-items: center;
+    gap: 10px;
+  }
+}
